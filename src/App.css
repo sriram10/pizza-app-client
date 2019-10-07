@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding: 40px 80px;
 }
 
 .App-logo {
@@ -19,4 +20,13 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.card {
+  display: inline-block;
+  padding: 8px;
+}
+
+.search-input {
+  padding: 4px 8px;
 }
